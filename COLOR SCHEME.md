@@ -4,7 +4,7 @@ Ovaj dokument služi kao zajednička referentna točka timu u svrhu konzistentno
 
 |primjer boje|hash code|naziv|svrha|
 |-|-|-|-|
-|<span style="display:inline-block;width:30px;height:30px;background-color:#F7F4EC;border:1px solid #ccc;"></span>|#F7F4EC|background/primary|Glavna boja pozadine i svjetlo obojanih objekata.|
+|<img src="https://placehold.co/30x30/F7F4EC/F7F4EC.png" width="30" height="30" />|#F7F4EC|background/primary|Glavna boja pozadine i svjetlo obojanih objekata.|
 |<span style="display:inline-block;width:30px;height:30px;background-color:#263A32;"></span>|#263A32|background/secondary|Sporedna boja pozadine za header, footer, navigaciju i tamnu varijantu pozadine.|
 |<span style="display:inline-block;width:30px;height:30px;background-color:#111F19;"></span>|#111F19|text/primary|Tamna boja teksta i ikona na svijetloj pozadini|
 |<span style="display:inline-block;width:30px;height:30px;background-color:#FFFDFA;border:1px solid #ccc;"></span>|#FFFDFA|text/inverse|Svijetla boja teksta i ikona na tamnoj pozadini, ali i referentna bijela boja u dizajnu.|
